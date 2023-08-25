@@ -3,3 +3,4 @@ cearte
 great ex.q'
 this is change for comit 
 this is commit for patch git 
+this is commit this is change 
