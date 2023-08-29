@@ -4,3 +4,5 @@ great ex.q'
 this is change for comit 
 this is commit for patch git 
 this is commit this is change 
+dont show .git file 
+the both file pre-commit and post commit set to deployment 
