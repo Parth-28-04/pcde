@@ -1,0 +1,38 @@
+From ef72139388fefdac370f7927544bc57d11aa928c Mon Sep 17 00:00:00 2001
+From: latabhlilesha <latabhilesha56@gmail.com>
+Date: Tue, 5 Dec 2023 13:12:15 +0530
+Subject: [PATCH] This message for git developer
+
+---
+ first2      | 1 +
+ lata/first2 | 1 +
+ pcde        | 1 +
+ 3 files changed, 3 insertions(+)
+ create mode 160000 first2
+ create mode 160000 lata/first2
+ create mode 160000 pcde
+
+diff --git a/first2 b/first2
+new file mode 160000
+index 0000000..8cf1f9e
+--- /dev/null
++++ b/first2
+@@ -0,0 +1 @@
++Subproject commit 8cf1f9e96fe056d8b89d1bc016096c68c33c6d1f
+diff --git a/lata/first2 b/lata/first2
+new file mode 160000
+index 0000000..8cf1f9e
+--- /dev/null
++++ b/lata/first2
+@@ -0,0 +1 @@
++Subproject commit 8cf1f9e96fe056d8b89d1bc016096c68c33c6d1f
+diff --git a/pcde b/pcde
+new file mode 160000
+index 0000000..f5020dd
+--- /dev/null
++++ b/pcde
+@@ -0,0 +1 @@
++Subproject commit f5020dd1d5422ebb20d915e9dbdbb7b053774d5e
+-- 
+2.43.0
+
